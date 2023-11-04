@@ -1,4 +1,4 @@
-# EX-01-1c  ASCII VALUE OF A GIVEN CHARACTER.
+# EX-1(C)    ASCII VALUE OF A GIVEN CHARACTER.
 
 ## AIM:
    To write a C program to find the ASCII value of a given character.
